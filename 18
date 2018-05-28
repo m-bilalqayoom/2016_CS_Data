@@ -1,0 +1,12 @@
+#include<iostream>
+#include<conio.h>
+using namespace std;
+{
+	int a,b;
+	cout<<"enter";
+	if(a==q || a==a)
+	cout<<"Hello";
+	else 
+	cout<<Bye ;
+	return 0;
+}
